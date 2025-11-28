@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-blog",
+  "name": "blog",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -13,5 +13,18 @@
   },
   "dependencies": {
     "vuepress-theme-reco": "^1.6.17"
-  }
+  },
+  "description": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xukaiyyds/xukaiyyds.github.io.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/xukaiyyds/xukaiyyds.github.io/issues"
+  },
+  "homepage": "https://github.com/xukaiyyds/xukaiyyds.github.io#readme"
 }
